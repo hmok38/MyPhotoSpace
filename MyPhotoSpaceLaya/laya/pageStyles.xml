@@ -1,0 +1,8 @@
+<page>
+   <item name="CoverUI.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="LoginUI.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="WaitNetUI.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="PhotoAlbumUI.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="PhotoListUI.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="PhotoImgUI.scene" props="" ifExport="内嵌模式" aName=""/>
+</page>
